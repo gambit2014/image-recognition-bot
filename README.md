@@ -1,4 +1,4 @@
-Creating bot for website.
+Creating bot for website. Trying to locate the image on the screen and click it until it succeeds.
 
 Dummy Targets : 
 
