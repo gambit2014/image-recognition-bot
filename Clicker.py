@@ -1,6 +1,5 @@
 import time
 import webbrowser
-
 from PIL import ImageGrab
 import cv2 as cv
 import numpy as np
